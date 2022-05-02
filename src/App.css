@@ -21,7 +21,7 @@
   background-image: -moz-linear-gradient(top, #fff, #dedede);
   background-image: -o-linear-gradient(top, #fff, #dedede);
   background-image: -ms-linear-gradient(top, #fff, #dedede);
-  background-image: linear-gradient(top, #fff, #dedede);
+  background-image: linear-gradient(to bottom, #fff, #dedede);
   border: #ccc solid 1px;
   color: #333;
   font-weight: bold;
